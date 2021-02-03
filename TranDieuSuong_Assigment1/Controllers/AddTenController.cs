@@ -18,6 +18,7 @@ namespace TranDieuSuong_Assigment1.Controllers
     /// <returns>the value plus ten</returns>
     /// <example>
     /// Get api/addten/10 ---> 20
+    /// 
     /// </example>
       public int Get(int id)
       {
